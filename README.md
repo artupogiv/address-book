@@ -30,7 +30,7 @@
 <ul>
     <li>html: for the basic strutcure of the website</li>
     <li>tailwind css (cdn): for styling and responsive design</li>
-    <li>javascript: for dynamic interactions</li>
+    <li>javascript: for data processing and dynamic interactions</li>
     <li>vercel: for website hosting</li>
 </ul>
 
