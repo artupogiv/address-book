@@ -2,7 +2,7 @@
 
 
 <h2>about the project</h2>
-<p>this address book project is built to evaluation my skill about javascript. in this web-app you can create, edit, and delete contact which has key value such as name, phone number, email and address. you also can search contact and sort the display contacts list by the key value of contact</p>
+<p>this address book project is built to evaluation my skill about javascript. in this web-app you can create, edit, and delete contact which has key value such as name, phone number, email and address. you also can search contact and sort the display contacts list by the key value of contact.</p>
 
 
 <h2>table of contents</h2>
