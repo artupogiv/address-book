@@ -36,6 +36,6 @@
 
 <h2>references</h2>
 <ul>
-    <li>another projects: <a href="https://github.com/mhaidarhanif/address-book">m haidar hanif's address book project repository</a>, <a href="https://github.com/navi-0115/address-book">m navi nugraha's address book project repository</a>, <a href="https://www.naandalist.com/">listiananda apriliawan</a></li>
-    <li>docs: <a href="https://tailwindcss.com/docs">tailwind css</a>, <a href="stackoverflow.com">stackoverflow</a>, <a href="https://ai.belajarlagi.id">ai - belajar lagi</a></li>
+    <li>another projects: <a href="https://github.com/mhaidarhanif/address-book">m haidar hanif's address book project repository</a>, <a href="https://github.com/navi-0115/address-book">m navi nugraha's address book project repository</a>
+    <li>docs: <a href="https://github.com/bearmentor-community/bearmentor-bootcamp/">bearmentor bootcamp's lesson repo</a>, <a href="https://tailwindcss.com/docs">tailwind css</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference">javascript mdn web docs</a>, <a href="stackoverflow.com">stackoverflow</a>, <a href="https://ai.belajarlagi.id">ai - belajar lagi</a></li>
 </ul>
