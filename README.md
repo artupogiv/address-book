@@ -14,7 +14,7 @@
 </ul>
 
 <h2>url</h2>
-<p>this address book project i deploy via vercel with the url: <a href="address-book-artupogiv.vercel.app">address-book-artupogiv.vercel.app</a></p>
+<p>this address book project i deploy via vercel with the url: <a href="https://address-book-artupogiv.vercel.app">address-book-artupogiv.vercel.app</a></p>
 
 
 <h2>features</h2>
