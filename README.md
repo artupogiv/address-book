@@ -2,7 +2,7 @@
 
 
 <h2>about the project</h2>
-<p>this personal website is built to present my journey, works and also projects as web developer.</p>
+<p>this address book project is built to evaluation my skill about javascript. in this web-app you can create, edit, and delete contact which has key value such as name, phone number, email and address. you also can search contact and sort the display contacts list by the key value of contact</p>
 
 
 <h2>table of contents</h2>
@@ -19,11 +19,11 @@
 
 <h2>features</h2>
 <ul>
-    <li>display all contacts: contain header and intro of the website also contain quick access to my github, linkedin, x/twitter and get in touch with me via email</li>
-    <li>add new contacts: contain short summary about me</li>
-    <li>edit contacts: contain my work experience</li>
-    <li>delete contacts: contain a showcase of my projects</li>
-    <li>search contacts: contain a showcase of my projects</li>
+    <li>contacts list</li>
+    <li>add new contacts</li>
+    <li>edit and delete contacts</li>
+    <li>search contacts (beta)</li>
+    <li>sort contacts (beta)</li>
 </ul>
 
 <h2>technologies used</h2>
